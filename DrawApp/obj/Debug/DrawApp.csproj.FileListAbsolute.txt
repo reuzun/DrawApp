@@ -1,0 +1,9 @@
+C:\Users\Efe\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.csproj.AssemblyReference.cache
+C:\Users\Efe\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.Properties.Resources.resources
+C:\Users\Efe\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.csproj.GenerateResource.cache
+C:\Users\Efe\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.csproj.CoreCompileInputs.cache
+C:\Users\Efe\source\repos\DrawApp\DrawApp\bin\Debug\DrawApp.exe.config
+C:\Users\Efe\source\repos\DrawApp\DrawApp\bin\Debug\DrawApp.exe
+C:\Users\Efe\source\repos\DrawApp\DrawApp\bin\Debug\DrawApp.pdb
+C:\Users\Efe\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.exe
+C:\Users\Efe\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.pdb
